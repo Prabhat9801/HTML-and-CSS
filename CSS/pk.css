@@ -1,0 +1,84 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+#one {
+  background-color: black;
+  height: 60px;
+}
+
+
+  
+#logo{
+  color: orange;
+  font-size: 25px;
+
+
+
+}
+button{
+  background-color: orange;
+  
+  
+} 
+a{
+  margin-right: 200px;
+  color: white;
+
+  
+} 
+/* .three{ 
+  height: 100px;
+  width: 100px;
+ background-color: rgba(255,0,0,0.75);
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  margin-right: 100px;
+  margin-left: 100px;
+ 
+ background-image: url("neom-I7NOiVT6jq0-unsplash.jpg");
+background-size: cover;
+
+}  */
+.five{
+  
+  color: blue;
+
+} 
+.six{
+  height: 150px;
+  width: 150px;
+  background-image: url("mos-design-EmWoOtU3FPA-unsplash.jpg");
+  background-size: cover;
+  position: static;
+  bottom: 0%;
+  left: 89%;
+ 
+  
+}
+body{
+  background-image: url("kevin-mueller-aeNg4YA41P8-unsplash.jpg");
+  background-size: contain;
+  
+}
+.seven{
+  color: darkblue;
+  
+
+}
+
+
+#two{
+  height: 580px;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+
+ 

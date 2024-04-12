@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+   
+}
+div{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+
+#container{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items: center;
+    
+}
+#box1 {
+    background-color: aqua;
+}
+#box2 {
+    background-color: pink;
+    
+}
+#box3 {
+    background-color: darkkhaki;
+}
+#box4 {
+    background-color: indianred;
+}
+#box5 {
+    background-color: slateblue;
+}

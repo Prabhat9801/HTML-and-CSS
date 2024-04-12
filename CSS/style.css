@@ -1,0 +1,26 @@
+div{
+    background-color: blue;
+    text-align: center;
+   
+}
+ .heading{
+    color:red;
+    text-decoration: black wavy;
+ }
+ button{
+    background-color: green;
+ }
+ #one {
+   text-align: right;
+   text-decoration: red dotted underline;
+   font-weight: 900;
+   font-family:cursive;
+   font-size: 12px;
+   line-height: normal;
+   text-transform: none;
+
+
+}
+ h1{
+   text-decoration: red dashed underline;
+ }
